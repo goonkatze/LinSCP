@@ -30,6 +30,9 @@ Here’s a sneak peek of LinSCP in action:
 ### Setup step 2
 ![Setup2](/Setup2.png)
 
+### Login Page
+![LoginPage](/LoginPage.png)
+
 ---
 
 ## ⚡ Installation & Usage

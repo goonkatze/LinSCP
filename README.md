@@ -1,5 +1,8 @@
 # 🚀 LinSCP
 
+# ❔ When release?
+- We are currently working on LinSCP and it will release in a few days!
+
 **LinSCP** – The ultimate WinSCP alternative for Linux! 🐧  
 Effortlessly transfer files between your Linux machine and servers.
 

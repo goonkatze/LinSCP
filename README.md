@@ -17,6 +17,15 @@ Effortlessly transfer files between your Linux machine and servers.
 
 ---
 
+## 🖼️ Screenshots
+
+Here’s a sneak peek of LinSCP in action:
+
+### Main Interface
+![Main Interface](/interface.png)
+
+---
+
 ## ⚡ Installation & Usage
 
 1. Clone the repository:  

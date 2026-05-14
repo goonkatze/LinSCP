@@ -24,6 +24,9 @@ Here’s a sneak peek of LinSCP in action:
 ### Main Interface
 ![Main Interface](/interface.png)
 
+### Setup
+![Setup](/Setup.png)
+
 ---
 
 ## ⚡ Installation & Usage

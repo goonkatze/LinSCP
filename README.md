@@ -27,6 +27,9 @@ Here’s a sneak peek of LinSCP in action:
 ### Setup
 ![Setup](/Setup.png)
 
+### Setup step 2
+![Setup2](/Setup2.png)
+
 ---
 
 ## ⚡ Installation & Usage

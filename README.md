@@ -8,6 +8,10 @@ Effortlessly transfer files between your Linux machine and servers.
 
 ---
 
+# 🌐 Website: https://linscp.github.io/
+
+---
+
 ## 🌟 Features
 
 - Intuitive interface similar to WinSCP
